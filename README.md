@@ -1,12 +1,14 @@
 # Minceraft
 A simple Minecraft clone made in Python in 3 days or more using Ursina! [https://www.ursinaengine.org/]
+This project is in no way affiliated with Mojang or Minecraft.
 
 # Features
 Around 30+ blocks to use!
-A terrain generation system?
+Easy customization! Really!
+And much more!
 
 # How To Play
-Run the "download-all-dependencies" file and then run the "minceraft.py" file and enjoy!
+Run the "download-all-dependencies" file (if you don't already have ursina) and then run the "minceraft.py" file and enjoy!
 
 J - Next block
 K - Previous block
