@@ -10,7 +10,7 @@ And much more!
 # How To Play
 Run the "download-all-dependencies" file (if you don't already have ursina) and then run the "minceraft.py" file and enjoy!
 
-J - Next block
-K - Previous block
-WASD -  Move
-Space - Jump
+J - Next block\
+K - Previous block\
+WASD -  Move\
+Space - Jump\
