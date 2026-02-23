@@ -1,4 +1,7 @@
-# Minceraft
+<div align="center">
+  <img src="https://raw.githubusercontent.com/weet-ops/Minceraft/refs/heads/main/title.png" alt="Minceraft logo (created in Microsoft Paint)"/>
+</div
+  
 A simple Minecraft clone made in Python in 3 days or more using Ursina! [https://www.ursinaengine.org/]\
 This project is in no way affiliated with Mojang or Minecraft.
 
