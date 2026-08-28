@@ -23,4 +23,4 @@ Boredom.
 >WASD -  Move\
 >Space - Jump\
 >TAB - Save (added in v1.2-alpha)\
->G - Load (added in v1.2-alpha)\
+>G - Load (added in v1.2-alpha)
